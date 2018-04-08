@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/AWSCognitoAuthDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/AWSCognitoAuthDelegate</TokenIdentifier>
+			<Abstract type="html">For obtaining current view controller to interact with the end user</Abstract>
+			<DeclaredIn>AWSCognitoAuth.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1807"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/AWSCognitoAuthDelegate/getViewController</TokenIdentifier>
+			<Abstract type="html">Get view controller to display user authentication on top of.</Abstract>
+			<DeclaredIn>AWSCognitoAuth.h</DeclaredIn>
+			
+			<Declaration>- (UIViewController *)getViewController</Declaration>
+			
+			
+			<Anchor>//api/name/getViewController</Anchor>
+            <NodeRef refid="1807"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

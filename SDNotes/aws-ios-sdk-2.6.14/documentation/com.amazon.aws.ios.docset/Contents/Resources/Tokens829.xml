@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/AWSKMSEnableKeyRotationRequest.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/AWSKMSEnableKeyRotationRequest</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>AWSKMSModel.h</DeclaredIn>
+            
+			
+			<NodeRef refid="829"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/AWSKMSEnableKeyRotationRequest/setKeyId:</TokenIdentifier>
+			<Abstract type="html">&lt;p&gt;A unique identifier for the customer master key. This value can be a globally unique identifier or the fully specified ARN to a key.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Key ARN Example - arn:aws:kms:us-east-1:123456789012:key/12345678-1234-1234-1234-123456789012&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Globally Unique Key ID Example - 12345678-1234-1234-1234-123456789012&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</Abstract>
+			<DeclaredIn>AWSKMSModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *keyId</Declaration>
+			
+			
+			<Anchor>//api/name/keyId</Anchor>
+            <NodeRef refid="829"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/AWSKMSEnableKeyRotationRequest/keyId</TokenIdentifier>
+			<Abstract type="html">&lt;p&gt;A unique identifier for the customer master key. This value can be a globally unique identifier or the fully specified ARN to a key.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Key ARN Example - arn:aws:kms:us-east-1:123456789012:key/12345678-1234-1234-1234-123456789012&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Globally Unique Key ID Example - 12345678-1234-1234-1234-123456789012&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</Abstract>
+			<DeclaredIn>AWSKMSModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *keyId</Declaration>
+			
+			
+			<Anchor>//api/name/keyId</Anchor>
+            <NodeRef refid="829"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/AWSKMSEnableKeyRotationRequest/keyId</TokenIdentifier>
+			<Abstract type="html">&lt;p&gt;A unique identifier for the customer master key. This value can be a globally unique identifier or the fully specified ARN to a key.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Key ARN Example - arn:aws:kms:us-east-1:123456789012:key/12345678-1234-1234-1234-123456789012&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Globally Unique Key ID Example - 12345678-1234-1234-1234-123456789012&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</Abstract>
+			<DeclaredIn>AWSKMSModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *keyId</Declaration>
+			
+			
+			<Anchor>//api/name/keyId</Anchor>
+            <NodeRef refid="829"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

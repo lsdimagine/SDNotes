@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/AWSKMSGrantConstraints.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/AWSKMSGrantConstraints</TokenIdentifier>
+			<Abstract type="html">&lt;p&gt;A structure for specifying the conditions under which the operations permitted by the grant are allowed.&lt;/p&gt;&lt;p&gt;You can use this structure to allow the operations permitted by the grant only when a specified encryption context is present. For more information about encryption context, see Encryption Context in the &lt;i&gt;AWS Key Management Service Developer Guide&lt;/i&gt;.&lt;/p&gt;</Abstract>
+			<DeclaredIn>AWSKMSModel.h</DeclaredIn>
+            
+			
+			<NodeRef refid="844"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/AWSKMSGrantConstraints/setEncryptionContextEquals:</TokenIdentifier>
+			<Abstract type="html">&lt;p&gt;Contains a list of key-value pairs that must be present in the encryption context of a subsequent operation permitted by the grant. When a subsequent operation permitted by the grant includes an encryption context that matches this list, the grant allows the operation. Otherwise, the operation is not allowed.&lt;/p&gt;</Abstract>
+			<DeclaredIn>AWSKMSModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSDictionary&lt;NSString*NSString*&gt; *encryptionContextEquals</Declaration>
+			
+			
+			<Anchor>//api/name/encryptionContextEquals</Anchor>
+            <NodeRef refid="844"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/AWSKMSGrantConstraints/encryptionContextEquals</TokenIdentifier>
+			<Abstract type="html">&lt;p&gt;Contains a list of key-value pairs that must be present in the encryption context of a subsequent operation permitted by the grant. When a subsequent operation permitted by the grant includes an encryption context that matches this list, the grant allows the operation. Otherwise, the operation is not allowed.&lt;/p&gt;</Abstract>
+			<DeclaredIn>AWSKMSModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSDictionary&lt;NSString*NSString*&gt; *encryptionContextEquals</Declaration>
+			
+			
+			<Anchor>//api/name/encryptionContextEquals</Anchor>
+            <NodeRef refid="844"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/AWSKMSGrantConstraints/encryptionContextEquals</TokenIdentifier>
+			<Abstract type="html">&lt;p&gt;Contains a list of key-value pairs that must be present in the encryption context of a subsequent operation permitted by the grant. When a subsequent operation permitted by the grant includes an encryption context that matches this list, the grant allows the operation. Otherwise, the operation is not allowed.&lt;/p&gt;</Abstract>
+			<DeclaredIn>AWSKMSModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSDictionary&lt;NSString*NSString*&gt; *encryptionContextEquals</Declaration>
+			
+			
+			<Anchor>//api/name/encryptionContextEquals</Anchor>
+            <NodeRef refid="844"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/AWSKMSGrantConstraints/setEncryptionContextSubset:</TokenIdentifier>
+			<Abstract type="html">&lt;p&gt;Contains a list of key-value pairs, a subset of which must be present in the encryption context of a subsequent operation permitted by the grant. When a subsequent operation permitted by the grant includes an encryption context that matches this list or is a subset of this list, the grant allows the operation. Otherwise, the operation is not allowed.&lt;/p&gt;</Abstract>
+			<DeclaredIn>AWSKMSModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSDictionary&lt;NSString*NSString*&gt; *encryptionContextSubset</Declaration>
+			
+			
+			<Anchor>//api/name/encryptionContextSubset</Anchor>
+            <NodeRef refid="844"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/AWSKMSGrantConstraints/encryptionContextSubset</TokenIdentifier>
+			<Abstract type="html">&lt;p&gt;Contains a list of key-value pairs, a subset of which must be present in the encryption context of a subsequent operation permitted by the grant. When a subsequent operation permitted by the grant includes an encryption context that matches this list or is a subset of this list, the grant allows the operation. Otherwise, the operation is not allowed.&lt;/p&gt;</Abstract>
+			<DeclaredIn>AWSKMSModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSDictionary&lt;NSString*NSString*&gt; *encryptionContextSubset</Declaration>
+			
+			
+			<Anchor>//api/name/encryptionContextSubset</Anchor>
+            <NodeRef refid="844"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/AWSKMSGrantConstraints/encryptionContextSubset</TokenIdentifier>
+			<Abstract type="html">&lt;p&gt;Contains a list of key-value pairs, a subset of which must be present in the encryption context of a subsequent operation permitted by the grant. When a subsequent operation permitted by the grant includes an encryption context that matches this list or is a subset of this list, the grant allows the operation. Otherwise, the operation is not allowed.&lt;/p&gt;</Abstract>
+			<DeclaredIn>AWSKMSModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSDictionary&lt;NSString*NSString*&gt; *encryptionContextSubset</Declaration>
+			
+			
+			<Anchor>//api/name/encryptionContextSubset</Anchor>
+            <NodeRef refid="844"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

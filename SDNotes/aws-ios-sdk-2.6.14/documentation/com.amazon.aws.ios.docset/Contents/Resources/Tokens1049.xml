@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/AWSPinpointAnalyticsPutEventsInput.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/AWSPinpointAnalyticsPutEventsInput</TokenIdentifier>
+			<Abstract type="html">Describes a set of events
+Required parameters: [events, clientContext]</Abstract>
+			<DeclaredIn>AWSPinpointAnalyticsModel.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1049"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/AWSPinpointAnalyticsPutEventsInput/setClientContext:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>AWSPinpointAnalyticsModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *clientContext</Declaration>
+			
+			
+			<Anchor>//api/name/clientContext</Anchor>
+            <NodeRef refid="1049"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/AWSPinpointAnalyticsPutEventsInput/clientContext</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>AWSPinpointAnalyticsModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *clientContext</Declaration>
+			
+			
+			<Anchor>//api/name/clientContext</Anchor>
+            <NodeRef refid="1049"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/AWSPinpointAnalyticsPutEventsInput/clientContext</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>AWSPinpointAnalyticsModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *clientContext</Declaration>
+			
+			
+			<Anchor>//api/name/clientContext</Anchor>
+            <NodeRef refid="1049"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/AWSPinpointAnalyticsPutEventsInput/setEvents:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>AWSPinpointAnalyticsModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray&lt;AWSPinpointAnalyticsEvent*&gt; *events</Declaration>
+			
+			
+			<Anchor>//api/name/events</Anchor>
+            <NodeRef refid="1049"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/AWSPinpointAnalyticsPutEventsInput/events</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>AWSPinpointAnalyticsModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray&lt;AWSPinpointAnalyticsEvent*&gt; *events</Declaration>
+			
+			
+			<Anchor>//api/name/events</Anchor>
+            <NodeRef refid="1049"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/AWSPinpointAnalyticsPutEventsInput/events</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>AWSPinpointAnalyticsModel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray&lt;AWSPinpointAnalyticsEvent*&gt; *events</Declaration>
+			
+			
+			<Anchor>//api/name/events</Anchor>
+            <NodeRef refid="1049"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

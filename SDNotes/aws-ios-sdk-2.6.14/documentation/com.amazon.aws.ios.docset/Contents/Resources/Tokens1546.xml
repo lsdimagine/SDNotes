@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/AWSS3TransferUtilityUploadTask.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/AWSS3TransferUtilityUploadTask</TokenIdentifier>
+			<Abstract type="html">The task object to represent a upload task.</Abstract>
+			<DeclaredIn>AWSS3TransferUtility.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1546"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/AWSS3TransferUtilityUploadTask/cancel</TokenIdentifier>
+			<Abstract type="html">Cancels the task.</Abstract>
+			<DeclaredIn>AWSS3TransferUtility.m</DeclaredIn>
+			
+			<Declaration>- (void)cancel</Declaration>
+			
+			
+			<Anchor>//api/name/cancel</Anchor>
+            <NodeRef refid="1546"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>
